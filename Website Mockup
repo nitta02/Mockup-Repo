@@ -1,0 +1,19 @@
+MOCKUP SCREEN REPLACEMENT — ONE EDIT ONLY
+
+Image 1 = a device mockup photo (phone, tablet, laptop, MacBook, iMac, desktop monitor, TV, or smartwatch — any device with a screen). Its screen currently shows placeholder/dummy content. Image 2 = the real design that must appear on that mockup screen.
+
+Replace ONLY the mockup's screen content with Image 2. If Image 1 contains multiple devices, replace only the main/most prominent screen unless told otherwise. Everything outside the screen — device body, bezels, keyboard, stand, hands, fingers, wrist/strap, desk, background, shadows, lighting, camera angle, framing, colors, textures — must remain pixel-identical to Image 1. Do not regenerate, retouch, enhance, or reinterpret anything outside the screen. Output at the same resolution, aspect ratio, and framing as Image 1.
+
+Screen fitting:
+- Fully remove the existing placeholder content — nothing from the old screen may remain or blend through.
+- Warp Image 2 to the screen's exact boundaries, corner shape, and perspective — flat monitor, angled laptop display, curved phone edge, round or square watch face, or notched screen. Respect notches, camera cutouts, and rounded corners.
+- If aspect ratios differ, scale Image 2 to fill the screen and crop minimally from the edges — never stretch, squash, or letterbox.
+- Reproduce Image 2 with total fidelity: identical text, fonts, icons, layout, colors, and proportions. Do not redesign, rewrite, or simplify anything. All text must stay sharp and legible.
+- If a finger, stylus, cursor, or any object overlaps the screen in Image 1, keep it in front — the new content goes behind it.
+
+Realism (screen area only):
+- Match the screen's brightness, contrast, and white balance to Image 1's lighting.
+- Keep Image 1's original screen reflections, glare, and shadow falloff on top of the new content.
+- Match the screen's sharpness and depth of field to the surrounding photo.
+
+Final result: the original mockup photo, unchanged in every way, except its screen now realistically displays Image 2 instead of the placeholder.
